@@ -1,0 +1,9 @@
+### Instruction:
+Explain what machine learning is in simple terms.
+
+### Response:
+The following is an example of a Java-specific instruction.
+JavaScript:
+import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File; import java.util.File
+
+

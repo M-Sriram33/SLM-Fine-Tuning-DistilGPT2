@@ -1,0 +1,26 @@
+MODEL EVALUATION SUMMARY
+========================
+
+Base Model:
+distilgpt2
+
+Fine-Tuned Model:
+DistilGPT-2 fine-tuned on the Databricks Dolly instruction dataset
+
+Training Dataset:
+Approximately 2,000 instruction-response examples
+
+Evaluation Method:
+Both models were tested on the same set of instruction-based prompts.
+
+Observations:
+1. The base model often generated generic or incomplete text.
+2. The fine-tuned model produced responses more related to instructions.
+3. The fine-tuned model sometimes generated list-like and task-oriented answers.
+4. Some responses remained repetitive or incomplete.
+5. The model's limitations are likely related to the small training dataset,
+   model size, and limited fine-tuning steps.
+
+Conclusion:
+Fine-tuning improved the model's instruction-following behavior to some
+extent, but the model is not yet suitable for production use.
